@@ -1,5 +1,9 @@
 h1 {
-  color: aqua;
+  font-family: Google Sans, arial, sans-serif;
+  font-weight: 400;
+  color: #e8eaed;
+  font-size: 22px;
+  line-height: 26px;
 }
 .weather-app-box {
   max-width: 600px;
