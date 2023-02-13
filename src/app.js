@@ -35,7 +35,7 @@ function displayForecast() {
             <div class="weather-forecast-date">
              ${day}
             </div>
-            <img src="http://openweathermap.org/img/wn/10d@2x.png"
+            <img src="https://openweathermap.org/img/wn/10d@2x.png"
             alt=""
             width="56">
             <div class="weather-forecast-temperature">
