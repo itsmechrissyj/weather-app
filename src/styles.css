@@ -70,3 +70,11 @@ li ::first-letter {
 .weather-forecast-date {
   font-size: 20px;
 }
+.weather-forecast-temperature-max {
+  font-size: 14px;
+  color: black;
+}
+
+.weather-forecast-temperature-min {
+  font-size: 14px;
+}
