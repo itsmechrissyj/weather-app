@@ -9,10 +9,6 @@ body {
   );
 }
 
-.weather-app-box {
-  background-color: antiquewhite;
-}
-
 h1 {
   font-weight: 400;
   color: black;
@@ -26,6 +22,8 @@ h1 {
   padding: 20px;
   border: 1px solid #885df1;
   margin-top: 10px;
+  background-color: antiquewhite;
+  font-family: "Roboto Slab", serif;
 }
 ul {
   padding: 0;
